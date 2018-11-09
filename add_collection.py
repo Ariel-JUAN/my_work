@@ -1,3 +1,5 @@
+# 参考链接：https://www.cnblogs.com/mr-wuxiansheng/p/6974170.html
+
 import cv2
 import os
 os.environ["CUDA_VISIBLE_DEVICES"] = "3"

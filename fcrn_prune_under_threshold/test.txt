@@ -1,0 +1,14 @@
+直接剪枝之后的结果 
+
+the test model is 0
+test finished for 654 images
+Completeness is 0.37245329224006124
+RMSE is 0.6952051123998917
+log RMSE is 0.2430736750295327
+log10 RMSE is 0.10556555384403278
+abs.relative is 0.17715939242042958
+sq.relative is 0.16038158955103268
+theta_1 is 0.6691180376369776
+theta_2 is 0.9059561751401625
+theta_3 is 0.975385846712538
+
